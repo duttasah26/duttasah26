@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sahil Dutta</h1>
-<h3 align="center">A passionate cloud developer based in Oakville, Ontario</h3>
+<h3 align="center">A cloud & web developer based in Canada</h3>
 
-- 🌱 I’m currently learning **AWS & DSA**
+- 🌱 I’m currently trying to **GET HIRED T_T**
 
 - 📫 How to reach me **sahildutta.work@gmail.com**
 
